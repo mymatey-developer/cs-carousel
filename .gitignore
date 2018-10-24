@@ -1,0 +1,7 @@
+# Exclude files:
+node_modules
+.sass-cache
+.idea
+*.DS_Store
+dist
+package-lock.json
